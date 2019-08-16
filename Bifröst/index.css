@@ -1,0 +1,14 @@
+#panel1{
+  background-image: url("back1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#panel2{
+  background-image: url("equipo.jpg");
+  background-size: cover;
+}
+
+.card-body{
+  background-color: rgba(255, 255, 255, 0.5);
+}
